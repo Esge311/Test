@@ -18,7 +18,7 @@ import android.widget.Toast;
 public class MainActivity 
 	extends ActionBarActivity
 	implements TextToSpeech.OnInitListener
-{x
+{
 
 	private static final int MY_DATA_CHECK_CODE = 13761;
 	private TextView mTextView;
